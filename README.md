@@ -10,5 +10,5 @@ However, the company CEO believes that existing models can predict churners prec
 
 
 Analytics Objectives:
-Build a classification model to predict churners one month in advance
-Identify key churn drivers
+- Build a classification model to predict churners one month in advance
+- Identify key churn drivers
