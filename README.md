@@ -3,10 +3,10 @@ A Major SEA Telecom Provider is in the business of providing telecom services to
 
 
 Business Objective:
-Reduce monthly customer churn by identifying high rick customers well ub advance.
+- Reduce monthly customer churn by identifying high rick customers well ub advance.
 
 Hypothesis:
-However, the company CEO believes that existing models can predict churners precisely, but it's too late to take any retension actions, as customers usage have significantly declined by then.
+- However, the company CEO believes that existing models can predict churners precisely, but it's too late to take any retension actions, as customers usage have significantly declined by then.
 
 
 Analytics Objectives:
